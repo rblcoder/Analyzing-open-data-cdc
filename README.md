@@ -10,4 +10,9 @@ Notebooks
 - Data  
 [Data : Heart Disease Stroke Prevention, Healthcare Cost and Utilization Project (HCUP) - National Inpatient Sample](https://chronicdata.cdc.gov/Heart-Disease-Stroke-Prevention/Healthcare-Cost-and-Utilization-Project-HCUP-Natio/ntny-77fx)  
 Notebook  
-[Coronary heart disease and stroke- National Inpatient Sample](https://github.com/rblcoder/Analyzing-open-data/blob/master/Coronary%20heart%20disease%20and%20stroke-%20National%20Inpatient%20Sample.ipynb)
+[Coronary heart disease and stroke- National Inpatient Sample](https://github.com/rblcoder/Analyzing-open-data/blob/master/Coronary%20heart%20disease%20and%20stroke-%20National%20Inpatient%20Sample.ipynb)  
+
+- Data  
+[Data : Alcohol Related Disease Impact, Alcohol-Attributable Deaths due to Excessive Alcohol Use](https://chronicdata.cdc.gov/Alcohol-Related-Disease-Impact/Alcohol-Attributable-Deaths-due-to-Excessive-Alcoh/yqqr-a7uy)  
+Notebook  
+[Alcohol-Attributable Deaths due to Excessive Alcohol Use](https://github.com/rblcoder/Analyzing-open-data/blob/master/Alcohol-Attributable%20Deaths%20due%20to%20Excessive%20Alcohol%20Use.ipynb)
